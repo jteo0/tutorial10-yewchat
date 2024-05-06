@@ -23,3 +23,8 @@ This repository is divided to branches that correspond to the blog post sections
 # 3.1 Original Code
 Screenshot menjalankan YewChat:
 ![img 3.1](img/img1.png)
+
+# 3.2 Be Creative
+Screenshot menjalankan YewChat:
+![img 3.2](img/img2.png)
+Saya mengubah bagian HTML pada chat.rs dan login.rs dengan tujuan untuk menginvert warna pagenya sehingga menjadi seperti darkmode.
